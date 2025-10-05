@@ -16,7 +16,7 @@ Batabit es una aplicación web diseñada para ayudar a los usuarios a navegar en
   - Flexbox para layouts
   - Media queries para responsive design
   - Animaciones suaves
-- **JavaScript (Vanilla)**: Interactividad y funcionalidad de sliders
+- **JavaScript**: Interactividad y funcionalidad de sliders
 - **Google Fonts**: Tipografías DM Sans e Inter
 
 ## 📊 Criptomonedas Incluidas
