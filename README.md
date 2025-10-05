@@ -1,21 +1,12 @@
 # 🪙 Batabit
 
-Batabit es una landing page moderna y responsive para una plataforma de intercambio de criptomonedas. El sitio proporciona información en tiempo real sobre las tasas de cambio de las principales criptomonedas y comisiones de diferentes exchanges.
+Batabit es una landing page moderna y responsive para una plataforma de intercambio de criptomonedas. El sitio proporciona información sobre las tasas de cambio de las principales criptomonedas y comisiones de diferentes exchanges.
 
 ![Batabit Logo](./assets/imgs/logo.svg)
 
 ## 📋 Descripción
 
 Batabit es una aplicación web diseñada para ayudar a los usuarios a navegar entre los diferentes precios y tendencias de criptomonedas. La plataforma visualiza todas las tasas de cambio y trae información en tiempo real de las casas de cambio y las monedas más importantes del mundo.
-
-## ✨ Características
-
-- **Tiempo Real**: API que toma información minuto a minuto sobre las tasas que más determinan el comportamiento del mercado
-- **Transparencia Total**: Sin tasas escondidas - Batabit muestra el costo real de lo que estás adquiriendo
-- **Comparación de Monedas**: Información precisa del valor real de cada moneda en el mercado actual
-- **Información Confiable**: Fuentes 100% verificadas con auditorías continuas
-- **Diseño Responsive**: Optimizado para dispositivos móviles y tablets
-- **Interactividad**: Sliders con navegación suave para explorar tablas y planes
 
 ## 🚀 Tecnologías Utilizadas
 
@@ -72,49 +63,6 @@ Batabit/
 - Navegador web moderno (Chrome, Firefox, Safari, Edge)
 - No se requieren dependencias adicionales
 
-### Instalación
-
-1. Clona este repositorio:
-```bash
-git clone https://github.com/edgarGS25/Batabit.git
-```
-
-2. Navega al directorio del proyecto:
-```bash
-cd Batabit
-```
-
-3. Abre el archivo `index.html` en tu navegador:
-```bash
-# En Windows
-start index.html
-
-# En macOS
-open index.html
-
-# En Linux
-xdg-open index.html
-```
-
-O simplemente arrastra el archivo `index.html` a tu navegador.
-
-### Uso con Servidor Local (Opcional)
-
-Para una mejor experiencia de desarrollo, puedes usar un servidor local:
-
-```bash
-# Con Python 3
-python -m http.server 8000
-
-# Con Node.js (npx)
-npx http-server
-
-# Con PHP
-php -S localhost:8000
-```
-
-Luego abre tu navegador en `http://localhost:8000`
-
 ## 🎨 Paleta de Colores
 
 El proyecto utiliza las siguientes variables de color:
@@ -159,35 +107,3 @@ El sitio está diseñado con un enfoque mobile-first:
 
 3. **Acceso de por Vida** - $99
    - Ahorras $999+ comparado al plan anual
-
-## 🤝 Contribuciones
-
-Las contribuciones son bienvenidas. Si deseas contribuir:
-
-1. Fork el proyecto
-2. Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)
-3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abre un Pull Request
-
-## 👨‍💻 Autor
-
-**Edgar GS**
-
-- GitHub: [@edgarGS25](https://github.com/edgarGS25)
-
-## 📄 Licencia
-
-Este proyecto es de código abierto y está disponible para uso educativo.
-
-## 📞 Contacto
-
-Para más información, puedes encontrarnos en:
-
-- LinkedIn
-- Crunchbase
-- Hackernews
-
----
-
-⭐ Si este proyecto te fue útil, considera darle una estrella en GitHub!
